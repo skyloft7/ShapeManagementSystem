@@ -1,0 +1,3 @@
+C:/Users/skylo/Desktop/CppProjects/ShapeManagementSystem/cmake-build-debug/CMakeFiles/ShapeManagementSystem.dir
+C:/Users/skylo/Desktop/CppProjects/ShapeManagementSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/skylo/Desktop/CppProjects/ShapeManagementSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
